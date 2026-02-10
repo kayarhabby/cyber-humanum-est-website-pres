@@ -48,3 +48,25 @@
 
 ### Challenge Git, Films
 - Challenge sur un serveur type Git, avec des citations tirés d’un film célèbres, recherche d’indices, tokens JWT
+
+### Plan de rédaction 
+
+#### Section Préparation :
+- Rhinectf
+- TRACS
+- Hackathon Cybersécurité - Polytech Dijon
+- CHE
+- Challenge CHE
+- Try Hack Me 
+- Challenge RootMe
+
+#### Section CHE : 
+- Kick off
+- jour 1
+- jour 2
+- jour 3
+- Retex
+- Tâches réalisés lors du che (cartographie, mise en place soc, etc)
+
+### Section Testimonials
+- Retour sur l'expérience (préparation + CHE)
