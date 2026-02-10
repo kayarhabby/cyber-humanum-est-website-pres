@@ -55,7 +55,6 @@
 - Rhinectf
 - TRACS
 - Hackathon Cybersécurité - Polytech Dijon
-- CHE
 - Challenge CHE
 - Try Hack Me 
 - Challenge RootMe
