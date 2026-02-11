@@ -2265,6 +2265,12 @@ section,
   }
 }
 
+.social-icon svg {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle; /* pour aligner avec les autres icônes inline */
+}
+
 /*--------------------------------------------------------------
 # Pricing Section
 --------------------------------------------------------------*/
