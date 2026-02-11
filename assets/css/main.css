@@ -2248,6 +2248,10 @@ section,
   background: color-mix(in srgb, var(--accent-color), transparent 95%);
 }
 
+.team .team-member .member-info .social a:hover svg {
+  fill: var(--accent-color);
+}
+
 @media (max-width: 767px) {
   .team .team-member {
     flex-direction: column;
